@@ -1,0 +1,51 @@
+# Adding New Payments
+
+The *Payments* module is an optional value-added service for tracking vendor invoices and payments received.
+
+Payments allow you to view payments that you've received, view missing payments, record new payments, and forecast incoming payments. Payments may or may not have an end date - they can be indefinite, or may end when a contract expires. Additionally, recurring payments are not required. **Note: For one-time payments, it is important that you specify the start date.**
+
+## Adding a One-Time Payment
+
+1. Select the *Add Payment* quick action button.
+2. Enter the *Check/ACH Number*. 
+3. Enter the *Check Amount*. 
+4. Enter the *Payment Date*. **Note: Depending on your business rules, you may want to backdate the date to the last day of the previous month.**
+5. Select a provider from the *Provider* dropdown menu.
+6. If applicable, select a payment period. **Note: Setting a payment period attempts to match the payment schedules for your transactions to the same period.** [Remove this and reword for Recurring Payments]
+7. If you did not select a payment period, enter a payment period in the *Start* and *End* fields. 
+8. If applicable, enter any relevant notes in the *Payment Memo* field.
+9. In the **Transaction** section, select the *Property*. The corresponding agreement and schedule will populate in the *Agreement* and *Schedule* fields. **Note: You can create a new Payment Schedule by selecting the *+* symbol to the right of the default Schedule.**
+10. Enter or adjust an amount in the *Amount* field.
+11. If applicable, enter or adjust any relevant notes in the *Memo* field.
+12. Adjust or add new Payment Period dates to the *Payment Period* fields. **Note: You can remove a payment period by selecting the *X* symbol to the right of the Payment Period you want to remove.**
+13. Select **Submit Payment** to add your payments.
+
+## Adding a Recurring Payment
+
+## Adding a Batch Payment (Multiple Transactions)
+
+There are some cases where you may want to add multiple payments, like when you receive multiple checks for a single property at the same time. To add multiple payments:
+
+1. Complete steps that apply to your payments in **Adding a Single Payment**.
+2. Enter the *Check/ACH Number*. 
+3. Enter the *Check Amount*. 
+4. Select *Add Another Transaction*.
+5. Complete all remaining fields in your remaining transactions until the *Amount Remaining* displays **0.00**. 
+6. If applicable, enter any relevant notes in the *Memo* field to explain how the payments are seperated.
+7. To remove a transaction, select the *-* symbol in the upper left corner of the transaction. 
+8. Select **Submit Payment** to add your payments.
+
+<!--- Needs to be added but environment does not include this yet: ## Ensuring Revenue Complies with Contract Terms
+
+### Gross vs. Net Payment Amounts and Fee Calculation
+
+### Detecting Irregularities and Mismatches--->
+
+## Modifying an Existing Payment
+
+To modify an existing payment:
+
+1. Select the *Payments* tab.
+2. Select a Property.
+3. Select the *Edit Payment* button.
+4. Make your changes then select the *Submit Payment* button.
