@@ -1,0 +1,26 @@
+# Adding a New Contact
+
+Contacts are individuals that belong to a Business that you want to manage. To add a new Contact:
+
+1. Select the *Contacts* tab at the top of the screen, then select the *+ Add Contact* tab.
+2. Enter the *Contact Name*. **Note: This is the only required field when you add a new contact.**
+3. Enter any other relevant information in the remaining fields.
+4. If applicable, select the *Select Files...* button and add any relevant files. 
+5. Select the *Submit Contact* button to add the contact.
+
+# Modifying an Existing Contact
+
+To modify an existing Contact:
+
+1. Select the *Contacts* tab at the top of the screen.
+2. Select the Contact that you want to edit, then select the *Edit Contact* button.
+3. Make your changes, then select the *Submit Contact* button. You can also select *Submit and close tab* if you want to close the tab after making your changes.
+4. **Note: You can also update a Contact from within other the other workflow modules, including Agreements, Businesses, Payments, and Properties.**
+
+# Associating a Contact with a Business
+
+<!--- [This module is changing and will require documentation.] ---> 
+
+# Linking a Contact to a Property or Agreement
+
+<!--- [This module is changing and will require documentation.] --->
