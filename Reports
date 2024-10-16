@@ -1,0 +1,42 @@
+# Reports 
+
+*Reports* is a module that ties together cross-module data over specified time periods.
+
+The *Reports* module shows you several types of reports that may be useful to you, including *Financial*, *Month End Portal*, and *Gross Revenue*. 
+
+## Financial Reports
+
+**Note: For *Financial Reports*, data does not populate by default. You must select a date range in order to generate a report. 
+
+1. Select a saved report to view or select the button next to *Saved Reports* and select *Create New Report*. 
+2. Enter a name for your report and select *Create Report*. 
+3. Choose how you want to group your results by (*Property*, *Client*, *Provider*, *Ownership Group*, *Management Company*, or *Legacy Account Representatives.*)
+4. Specify an exact date range or select an interval for the payment period you want to see in the report. The valures for *Property*, *Client*, *Provider*, *Ownership Group*, *Management Company*, and *Legacy Account Representatives* at the top of the screen will update.
+5. Specify which *Clients* you want to include in the report. **Note: You can use this field to exclude a specific provider by toggling *Exclude*.**
+6. Specify which *Providers* you want to include in the report. 
+7. Specify which *Properties* you want to include in the report.
+8. Select any additional filters you want to include in the report and adjust as needed.
+9. If applicable, toggle on *ACH Only*, or *Exclude ACH Properties* if it applies to your use case.
+10. If applicable, adjust settings for the report by selecting *Settings*. Here, you can deselect any unwanted columns and reorder the way they appear in the report. Select *Apply* when you are done or *Reset to Default* if you do not want to keep your changes.
+11. Your results will appear at the bottom of the screen. 
+
+## Month-End Reports
+
+*Month-End* reports allow you to check and create a report for where money was sent and what for. An e-mail notification is generated which generates the PDF report and is sent to the requestor(s) or assigned contact(s) for the associated properties.
+
+<!--- [Separate documentation for Month-End Portal. Two ways to send payments: check and report for what money was for. Alternate/preferred: ACH transfer (bank to bank). Nothing is physically sent, just an e-mail with a notification that money will be sent/has been sent. Has PDF attached. Generates that PDF and sends e-mail to person designated to receive it for those properties. Property: 1:1, sends e-mail to all people associated with it. ACH Contact: Sends all reports to one contact that they're attached to instead of just one.] --->
+
+## Gross Revenue Reports
+
+*Gross Revenue* reports allow you to see all payments for each client that arrived within a specific date range. You can export this report to Excel on demand. 
+
+To create a new *Gross Revenue* report:
+
+1. Select the *Create New Report* button next to *Saved Reports* and select *Create New Report*.
+2. Enter a name for your report and select *Create Report*.
+3. Choose whether to group by *Provider* or *Client*.
+4. Specify an exact date range or select an interval for the payment period you want to see in the report. The values for *Clients*, *Providers*, and *Gross Amount* at the top of the screen will update.
+5. Specify which *Clients* you want to include in the report. **Note: You can use this field to exclude a specific provider by toggling *Exclude*.**
+6. Specify which *Providers* you want to include in the report. 
+7. If applicable, adjust settings for the report by selecting *Settings*. Here, you can deselect any unwanted columns and reorder the way they appear in the report. Select *Apply* when you are done or *Reset to Default* if you do not want to keep your changes.
+8. Your results will appear at the bottom of the screen.
