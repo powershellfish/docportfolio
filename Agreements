@@ -1,0 +1,55 @@
+# Adding New Agreements
+
+Agreements are documents that describe the service(s) that a business will provide to a property, and are the first step in the FoliEdge workflow. Agreements may or may not have a contract associated with them. To add an Agreement:
+
+1. Select either *This service has a contract* or *This service does not have a contract*. 
+2. Select one or more Clients.
+3. Select one or more Properties.
+4. Select a Provider.
+5. Select any applicable Services.
+6. Select the *Agreement Type*
+7. Select any relevant options from the *Quick Note* field. Quick Notes are system-wide custom annotations with which an agreement can have a one-to-many relationship. You select one or more Quick Notes to populate agreement annotations, if necessary. Quick Notes are optional metadata/tags.
+8. If applicable, enter any relevant information in the **Additional Information** and **Additional Agreement Info** fields.
+
+## Agreements with Contracts
+
+### Dates
+
+1. Select a *Start Date* for the agreement to be effective. 
+2. Select whether the *Start Date* has been verified or not.
+3. Select the *Agreement Term* duration from the dropdown. You can also manually enter a term by selecting the *Manually Enter Agreement Term* checkbox and specifying the number of years that the term is active for.
+4. Select an *Initial Expiration Date* for the agreement to terminate on.
+5. Select whether there is a *Rollover Option* for the Agreement or not.
+6. If there is a *Rollover Option*, specify the *Rollover Term* duration, then specify the *Rollover Limit* amount.
+
+### Notices
+
+1. Select a *Renewal Reminder Notice* interval. 
+2. Select a *Termination Notice Lead Time* interval.
+3. For a Certificate of Insurance, select *Not required*, *Required but I do not have a copy*, or *Required and I have a copy*. 
+4. If you selected, *Required and I have a copy*, you will be prompted to attach a copy of the Certificate of Insurance.
+
+### Payments
+
+**Note: The payment schedule experience is much better in fullscreen mode, which you can access by toggling Fullscreen on using the button inside that section.**
+
+1. If Payments are scheduled, toggle the *Payments Scheduled* option to **on**. 
+2. Select the *Payee* from the dropdown menu.
+3. If Provider forms are complete, select *Provider forms completed*.
+4. If applicable, select the number of *Months Paid in Arrears* from the dropdown menu. 
+
+## Agreements with no Contracts
+
+After you complete all required fields in the *General Information* section, you'll need to complete the *Contacts* section, which connects individuals from *Contacts* to an agreement. These steps also apply if your agreement have contracts and you have completed all sections before the *Contacts* section. 
+
+1. If applicable, complete the *ACH Detail Report* and *ACH Payment Notification* fields.
+2. Enter the names of the people in each role that applies to your organization. 
+3. Use the *Overview* section to enter any information about the Agreement in a Rich Text Format (HTML) that you can edit. **Note: This section is generally used for adding internal notes for an Agreement.**
+
+# Modifying an Existing Agreement
+
+To modify an existing agreement, select the *Agreements* module, then select the agreement you want to modify from the *Agreement* column.
+
+1. Select the *Edit Agreement* button.
+2. Make your changes to the agreement. 
+3. Select the *Submit Agreement* button to save your changes. **Note: You can save your changes and close your tab at the same time by select the Submit Agreement button, then selecting Submit and close tab.**
