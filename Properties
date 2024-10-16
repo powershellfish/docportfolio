@@ -1,0 +1,70 @@
+# Adding New Properties
+
+Properties are entities that belong to one or more associated Businesses. To add a new Property: 
+
+## General Information
+
+1. Select the *Properties* tab at the top of the screen, then select the *+ Add Property* tab.
+2. Enter the *Property Name*. 
+3. If applicable, enter any *Previous Property Names*. 
+4. Complete the remaining applicable fields.
+5. Select **Yes** or **No** for *ACH Payment*. 
+6. Enter any relevant information in the *Additional Property Info* field.
+
+## Usage Type
+
+1. Select a *Usage Type* option. 
+2. Depending on the option you select, the unit of measurement will change. Enter the total number for the appropriate unit of measurement for your selection in the field. **Note: For *Student*, the unit of measurement is *Beds*.**
+
+## Property Information
+
+1. Select a *Property Status*.
+2. Select a *Structure Type*.
+3. Select a *Property Type*.
+4. Select a *LEED Certification* type.
+5. If the Property is Pet Friendly, select **Yes**, then specify types of pets it allows.
+6. Enter the year the Property was built.
+7. Enter the year the Property was acquired (if applicable).
+8. Enter the year the Property was last renovated (if applicable).
+9. Enter the number of buildings that are part of the property.
+
+## Businesses
+
+If you haven't added the Business that this Property is connected to yet, you can add a new Business by selecting the *New Business Form* link on the left side of the page.
+
+1. Select one or more Clients from the *Client* field.
+2. Select one or more Management Companies from the *Management Company* field. 
+3. Select one or more Ownership Groups from the *Ownership Group* field.
+
+## Contacts
+
+If you haven't added the Contacts that this Property is connected to yet, you can add a new Contact by selecting the *Add New Contact* link on the left side of the page.
+
+1. Depending on your organization, there will be several required Contact fields you need to complete. 
+2. Select a Contact from the required fields for Contacts. 
+3. If you need to add more Contacts to connect to this Property, select *Add New Contact* on the left side of the page.
+
+## Telecom Systems
+
+1. Select a telecom system owner.
+2. Select a telecom system type.
+3. Enter any relevant notes in the *Memo* field.
+4. Select *Save* to save that telecom system record to this Property. Select *Delete* if you want to remove a telecom system.
+
+## Signature Block
+
+You can use the Signature Block to include contact information when property information is sent out in reports and other documents. Enter your contact information in the signature block.  
+
+## Attachments
+
+1. Select *Select Files* to include any relevant attachments as part of this Property. **Note: Attachments included here usually include Unit Address Lists or Agency Agreements.**
+
+Select *Submit Property*.
+
+# Modifying an Existing Property
+
+To modify an existing Property:
+
+1. Select the *Properties* tab, then select the Property you want to modify.
+2. Select the *Edit Property* button and make your changes.
+3. Select the *Submit Property* button when you are done making changes. You can also select *Submit and close tab* to save your changes and close the tab.
