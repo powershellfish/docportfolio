@@ -1,0 +1,66 @@
+# Tasks
+
+## Overview 
+
+Tasks have same grid system as other modules. They are searchable and each task has a *Title*, *Message* (description), and *Action Needed By* field. Optionally, you can include other information such as *Action Items* and *Associated With* to tag other people associated with the task.
+
+By default, tasks will only display to the users who created them (similar to creating notes for yourself). Task creators will always be able to see the Task Log, which includes activity for any action that occurs within that specific task. 
+
+Tasks can be created and modified by any user, but can only be deleted by the task creator. Anyone can complete a task.
+
+Some common actions all users can do with tasks:
+1. **Complete**: Mark the task as complete
+2. **Modify**: Update task information
+3. **Snooze**: Move the *Action Needed By* date to different date
+4. **Status**: Modify task status to *Low*, *High*, *Urgent*, or *Completed*
+
+Tasks are sent to users in the order of *Action Needed By*. Some other things to note about user-centered task actions:
+
+- Users can edit and delete comments
+- Tasks can associate properties and contacts with individual tasks
+- Users can always go back and mark task *incomplete*. Once a task is complete, it will reset a user's progress.
+- Users can add attachments to tasks
+- Users can also change to a *List* view of the task, which allows you to filter, search, and edit tasks.
+
+## Adding Tasks
+
+The fastest way to add a task is from the main grid. To add a task:
+
+1. Select the *+Add Task* button.
+2. Enter information in the *Title*, *Message*, and *Action Needed By* fields. **Note: It is also recommended as a best practice to assign the task a priority to prevent tasks from getting cluttered.**
+3. Select the *Create Task* button.
+
+## Modifying Tasks
+
+<!--- At the time this was written, the environment wasn't allowing me to create new tasks. Please make sure to check these instructions, especially the last step. I'm not sure if the UI text for the Update Task button is actually "Update Task". Thanks!--->
+
+1. Select your task from the list.
+2. Make updates to your task. 
+3. Select *Update Task*.
+
+
+## Other Information About Tasks:
+
+- **IMPORTANT** If a task is completely deleted, you can't retrieve a task once it has been deleted.
+
+- If you’re already in the task grid, you’ll need to search for *Action Items* to associate it with.
+
+- If you’re in a different module, you don’t need to declare action items, and can perform the following actions:
+    - Select a business
+    - Perform an action
+    - Add Task
+    - *Note: Each will have all the same fields except Action Item.*
+
+- You can an also add tasks using the button next to list view in *Task View*.
+- Red badges indicate how many tasks a business has.
+- To only see tasks associated with the profile you are viewing, go to *Profile* view, then go to *Tasks*. 
+- When a task is completed, it will fall off the grid but it is NOT deleted. If you want to see completed tasks, you can see it from the profile with a list of active and completed tasks
+
+# User Generated Tasks vs. System Generated Tasks
+
+A user can declare which tasks they want generated. For example, If you have a contact, you can target the *Contact* title and exclude any blank titles. FoliEdge generates tasks that tell you to not allow blank contact titles.
+
+Commands allow you to do anything in the main grid as a one-line command. These commands will work on any grid in FoliEdge. Some commands you can use are:
+- *Example: /filter Category by business*
+- **/clear** will clear filters
+- **/sort** will sort names in ascending order
