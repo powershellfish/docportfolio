@@ -1,0 +1,36 @@
+# Adding a New Business
+
+Businesses are entities that fall into one of four types: client, management company, ownership, or a provider (usually a vendor). Businesses can contain Contacts, Properties, Agreements, and  Payments. [What are businesses children of?][Every system has businesses, but systems for a property management company will not have Clients. A business corresponds to a corporate entity with whom the FoliEdge system operator has a business relationship. Most businesses will be providers, which are entities that provide services to your properties.] To add a new Business: 
+
+1. Select the *Businesses* tab at the tope of the screen, then select the *+ Add Business* tab.
+2. Enter the business information in each of the fields.
+3. In the *Business Type* field, select either **Provider** or **Other Business**. **IMPORTANT: When you add a business into the system, you must select either Provider OR Other Business. This action cannot be undone.**
+
+## When Business Type is a Provider
+
+1. Select the applicable services for the business (press and hold down *CTRL* to select multiple items).
+2. Select the dual-pane selectors to add those services to the list on the right.
+3. Select the applicable states that the business services (press and hold down *CTRL* to select multiple items.)
+
+## When Business Type is an Other Business
+
+1. Select *Client*, *Management Company*, or *Ownership Group* for the business type. (**Note: You can select one or more of these types as an option.**)
+2. If you select *Client*, click the *+ Add New* button to add new Payment Share information.
+3. Enter a name for the Payment Share.
+4. Enter the fee amount for the Payment Share. **Note: You can add multiple Payment Shares, and they can each be entered as a percentage or a dollar amount.**
+
+If the business has a full portfolio list, you may want to include that as an attachment. 
+1. Select the *Select Files...* button and add any relevant files. 
+2. Select a *Type* from the Type dropdown menu.
+3. Enter any relevant information in the *Note* field, if applicable. 
+4. To remove the file, select the *X* Remove button, then select the *Remove* button to confirm that you want to remove the attachment.
+
+When all fields are completely filled out, select the *Submit Business* button to add the business.
+
+# Modifying an Existing Business
+
+1. Select the *Businesses* tab.
+2. Select the Business that you want to modify, or search for the Business in the search bar.
+3. Select the *Edit Business* button.
+4. Make your changes then select *Submit*. You can also select *Submit* then select *Submit and close tab* if you want to close the tab after editing the Business.
+5. To cancel all changes, select the *Cancel* button.
